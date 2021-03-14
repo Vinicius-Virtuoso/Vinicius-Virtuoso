@@ -3,7 +3,7 @@
 
 - 👋 Olá, sou Vinicius Eduardo Viruoso.
 - 👀 Estou interessado em Web Developer Front-End.
-- 🌱 No momento, estou aprendendo Web Developer Front-End.
+- 🌱 No momento, estou aprendendo Desenvolvimento Web Front-End.
 - 💞️ Estou procurando colaborar em ...
 - 📫 Como entrar em contato comigo = [
 
