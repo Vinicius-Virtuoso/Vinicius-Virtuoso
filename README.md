@@ -42,17 +42,20 @@
 </div>
 
  ##
-
-![Snake animation](https://github.com/viniciusviruoso/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
- ##
- 
-<div style="display: inline_block"><br>
+ <div style="display: inline_block"><br>
   <img align="center" alt="Vini-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vini-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vini-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Vini-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="right" alt="Vini-gif" height="150" width="170" src="https://i1.wp.com/emersonbarros.com.br/wp-content/uploads/2014/10/alq12bg_460sa_v1.gif">
+</div>
+
+
+
+ ##
+ 
+<div>
+   <img width="80%" src="https://github.com/viniciusviruoso/rafaballerini/blob/output/github-contribution-grid-snake.svg">
+   <img align="right" alt="Vini-gif" height="150" width="170" src="https://i1.wp.com/emersonbarros.com.br/wp-content/uploads/2014/10/alq12bg_460sa_v1.gif">
 </div>
 
  ##
