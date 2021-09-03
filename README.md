@@ -54,7 +54,7 @@
  ##
  
 <div>
-   <img width="80%" src="https://github.com/viniciusviruoso/rafaballerini/blob/output/github-contribution-grid-snake.svg">
+   <img width="80%" src="https://github.com/viniciusviruoso/viniciusviruoso/blob/output/github-contribution-grid-snake.svg">
    <img align="right" alt="Vini-gif" height="150" width="170" src="https://i1.wp.com/emersonbarros.com.br/wp-content/uploads/2014/10/alq12bg_460sa_v1.gif">
 </div>
 
