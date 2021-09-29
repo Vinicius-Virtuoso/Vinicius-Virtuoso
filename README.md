@@ -35,9 +35,9 @@
     
 
 <div>
-  <a href="https://github.com/viniciusviruoso">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=viniciusviruoso&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusviruoso&layout=compact&langs_count=7&theme=shades-of-purple"/>
+  <a href="https://github.com/vinicius-virtuoso">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vinicius-virtuoso&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-virtuoso&layout=compact&langs_count=7&theme=shades-of-purple"/>
     </a>
 </div>
  
@@ -54,7 +54,7 @@
  ##
  
 <div style="display: inline_block">
-   <img height="150" width="75%" src="https://github.com/viniciusviruoso/viniciusviruoso/blob/output/github-contribution-grid-snake.svg">
+   <img height="150" width="75%" src="https://github.com/vinicius-virtuoso/vinicius-virtuoso/blob/output/github-contribution-grid-snake.svg">
    <img align="right" alt="Vini-gif" height="150" width="20%" src="https://i1.wp.com/emersonbarros.com.br/wp-content/uploads/2014/10/alq12bg_460sa_v1.gif">
 </div>
 
@@ -66,6 +66,6 @@
     - Facebook: https://www.facebook.com/vinicius.eduardo.121398 , -->
 
 <!---
-ViniciusViruoso/ViniciusViruoso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+vinicius-virtuoso/vinicius-virtuoso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
