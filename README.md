@@ -35,7 +35,7 @@
     
 
 <div>
-  <a href="https://github.com/vinicius-virtuoso2">
+  <a href="https://github.com/vinicius-virtuoso">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vinicius-virtuoso&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-virtuoso&layout=compact&langs_count=7&theme=shades-of-purple"/>
     </a>
