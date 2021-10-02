@@ -1,7 +1,7 @@
 ## Oii! Eu sou Vinicius Virtuoso.
 
 
-- 🤓 Estudante de Dev. front-end.
+- 🤓 Estudante e Dev. front-end.
 - 🌱 Estudando no momento React.js.
 - 🧑🏾 Pronouns: ele/dele.
 
