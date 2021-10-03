@@ -60,7 +60,7 @@
 
  ##
 
-<!--     - Instagram: https://www.instagram.com/vini.e.v    ,
+<!--     - Instagram: https://www.instagram.com/vini.e.v    
     - WhatsApp: +55 (48) 9 8837-8970  ,
     - Facebook: https://www.facebook.com/vinicius.eduardo.121398 , -->
 
