@@ -54,7 +54,7 @@
  ##
  
 <div style="display: inline_block">
-   <img height="150" width="100%" src="https://github.com/vinicius-virtuoso/vinicius-virtuoso/blob/output/github-contribution-grid-snake.svg">
+   <img height="200" width="100vw" src="https://github.com/vinicius-virtuoso/vinicius-virtuoso/blob/output/github-contribution-grid-snake.svg">
 </div>
 
  ##
