@@ -58,16 +58,5 @@
  ##
  
 <div style="display: inline_block">
-   <img height="200" width="80%" src="https://github.com/vinicius-virtuoso/vinicius-virtuoso/blob/output/github-contribution-grid-snake.svg">
+   <img height="200" width="100%" src="https://github.com/vinicius-virtuoso/vinicius-virtuoso/blob/output/github-contribution-grid-snake.svg">
 </div>
-
- ##
-
-<!--     - Instagram: https://www.instagram.com/vini.e.v    
-    - WhatsApp: +55 (48) 9 8837-8970  ,
-    - Facebook: https://www.facebook.com/vinicius.eduardo.121398 , -->
-
-<!---
-vinicius-virtuoso/vinicius-virtuoso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
