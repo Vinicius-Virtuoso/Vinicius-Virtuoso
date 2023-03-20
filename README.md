@@ -3,7 +3,7 @@
 
 
 
-- 🤓 Estudante e Desenvolvedor Web Front-end;
+- 🤓 Desenvolvedor Web Front-end;
 - 🌱 Estudando no momento Backend com Node.js;
 - 🧑🏾 Pronouns: ele/dele;
 
