@@ -2,11 +2,10 @@
 
 
 
-
 - 🤓 Desenvolvedor Web Front-end;
 - 🌱 Estudando no momento Backend com Node.js;
-- 🧑🏾 Pronouns: ele/dele;
 
+## Visite meu web portifólio: [Clique Aqui!](https://viniciusvirtuoso.vercel.app)
 
 
 <div style="display: flex">
