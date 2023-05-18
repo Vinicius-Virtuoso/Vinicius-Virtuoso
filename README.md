@@ -6,24 +6,6 @@
 - 🌱 Estudando no momento Backend com Node.js e TypeORM;
 
 ## Visite meu web portifólio: [Clique Aqui!](https://viniciusvirtuoso.vercel.app)
-
-
-<div style="display: flex">
-      <a href="https://www.linkedin.com/in/vinicius-virtuoso-110107196">
-        <img height="25em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-      </a>
-      <a href="https://discord.gg/dYW5MdR6EY">
-        <img height="25em" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-      </a>
-      <a href="viniciusvirtuoso1902@gmail.com">
-        <img height="25em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-      </a>
-</div>
-
- ##
-
-
-
     
 
 <div style="display:flex">
