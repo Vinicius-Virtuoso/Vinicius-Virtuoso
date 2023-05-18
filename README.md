@@ -7,13 +7,6 @@
 
 ## Visite meu web portifólio: [Clique Aqui!](https://viniciusvirtuoso.vercel.app)
     
-
-<div style="display:flex">
-  <a href="https://github.com/vinicius-virtuoso">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinicius-virtuoso&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-virtuoso&layout=compact&langs_count=7&theme=shades-of-purple"/>
-    </a>
-</div>
  
  # Experiências com:
  <div style="display: inline_block"><br>
