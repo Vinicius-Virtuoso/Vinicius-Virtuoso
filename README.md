@@ -2,8 +2,7 @@
 
 
 
-- 🤓 Desenvolvedor Web Front-end;
-- 🌱 Estudando no momento Backend com Node.js e TypeORM;
+- 🤓 Desenvolvedor Web FullStack;
 
 ## Visite meu web portifólio: [Clique Aqui!](https://viniciusvirtuoso.vercel.app)
     
