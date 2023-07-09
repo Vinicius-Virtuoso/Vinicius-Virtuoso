@@ -9,15 +9,14 @@
  
  # Experiências com:
  <div style="display: inline_block"><br>
-  <img align="center" title="HTML5" alt="Vini-HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  
-  <img align="center" title="CSS 3" alt="Vini-CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-      
-  <img align="center" title="SASS" alt="Vini-SASS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   
   <img align="center" title="JavaScript" alt="Vini-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   
   <img align="center" title="TypeScript" alt="Vini-TypeScript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+
+  <img align="center" title="Python" alt="Vini-Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+
+  <img align="center" title="Django" alt="Vini-Django" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
   
   <img align="center" title="Ract JS" alt="Vini-React" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
       
